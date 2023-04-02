@@ -1,0 +1,2 @@
+# LariTeroz
+Training project
